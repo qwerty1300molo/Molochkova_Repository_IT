@@ -17,3 +17,29 @@ header .slogan {
     text-align: right;
     font-size: 1.2em;
 }
+nav {
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 22%;
+    height: 80%;
+    background-color: #343a40;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
